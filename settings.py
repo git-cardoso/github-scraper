@@ -1,1 +1,1 @@
-SPLASH_URL = 'http://192.168.99.100:8050/render.html'
+SPLASH_URL = 'http://localhost:8050/render.html'
