@@ -46,4 +46,6 @@ eduleones/github-scraper
 
 A saída dos dados será num arquivo txt que ficará na pasta *'results/'*
 
-
+```
+python run.py
+```
